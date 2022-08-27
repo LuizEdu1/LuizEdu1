@@ -12,10 +12,8 @@ Sou estudante de sistemas de informação, e estou me desenvolvendo cada vez mai
 </div>
 
 <div>
-
-
+<a href="https://www.linkedin.com/in/luiz-eduardo-xavier-de-almeida-b34a0222a/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
 
 </div>
-
 
 
