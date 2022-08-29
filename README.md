@@ -2,8 +2,6 @@
 
 # Seja bem vindo e bem vinda ao meu GitHub! É bom ter você por aqui! 👨‍💻🌐
 
-Sou estudante de Sistemas de Informação e estou me desenvolvendo cada vez mais na área de tecnologia.
-
 <div 
 style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
