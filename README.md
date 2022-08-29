@@ -1,7 +1,8 @@
 <img src = "giphy.gif" width= "325px">
 
 # Seja bem vindo e bem vinda ao meu GitHub! É bom ter você por aqui! 👨‍💻🌐
-Sou estudante de sistemas de informação, e estou me desenvolvendo cada vez mais na área da tecnologia e programação. Em busca de novos conhecimentos e habilidades.
+
+Sou estudante de Sistemas de Informação e estou me desenvolvendo cada vez mais na área de tecnologia.
 
 <div 
 style="display: inline_block">
