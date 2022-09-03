@@ -1,7 +1,7 @@
 <img src = "giphy.gif" width= "325px">
 
 # Seja bem vindo e bem vinda ao meu GitHub! É bom ter você por aqui! 👨‍💻🌐
-## Em construção !!! 🚧🚧🚧
+## Em construção ! 🚧
 
 <div>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -11,4 +11,3 @@
 </div>
 
 ![LuizEdu1 GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizEdu1&show_icons=true&theme=dracula)
-
