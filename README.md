@@ -1,5 +1,7 @@
 <img src = "giphy.gif" width= "325px">
 
+ <a href="https://www.linkedin.com/in/luizeduardoxavierdealmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 # Seja bem vindo e bem vinda ao meu GitHub! É bom ter você por aqui! 👨‍💻🌐
 ## Em construção ! 🚧
 
