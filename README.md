@@ -2,8 +2,7 @@
 
  <a href="https://www.linkedin.com/in/luizeduardoxavierdealmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-# Olá! Seja bem-vindo(a) ao meu Github! Eu sou o Luiz Eduardo. 👋 
-<br> Estudante de sistemas de informação!
+# Olá! Seja bem-vindo(a) ao meu Github! Eu sou o Luiz Eduardo. 👋 <br> Estudante de sistemas de informação!
 # Em construção ! 🚧
 
 <div style="display: inline_block">
