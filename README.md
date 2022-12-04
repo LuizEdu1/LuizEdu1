@@ -15,3 +15,5 @@
 </div><br/>
 
 ![LuizEdu1 GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizEdu1&show_icons=true&theme=dracula)
+
+![](https://komarev.com/ghpvc/?username=LuizEdu1)
