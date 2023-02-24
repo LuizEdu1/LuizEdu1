@@ -16,4 +16,7 @@
 
 ![LuizEdu1 GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizEdu1&show_icons=true&theme=dracula)
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEdu1&hide,C&layout=compact&theme=cobalt&title_color=2ED3EA" height="149px" />
+</p>
+
 ![](https://komarev.com/ghpvc/?username=LuizEdu1)
